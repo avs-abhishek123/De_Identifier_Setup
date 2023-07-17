@@ -1,0 +1,1152 @@
+{
+    "African": [
+        "African",
+        "Black"
+    ],
+    "Asian": [
+        "Asian"
+    ],
+    "Caucasian": [
+        "Caucasian",
+        "White"
+    ],
+    "Hispanic": [
+        "Hispanic",
+        "Latino",
+        "Latinx"
+    ],
+    "Native American": [
+        "Native American",
+        "Indigenous"
+    ],
+    "Pacific Islander": [
+        "Pacific Islander"
+    ],
+    "Arab": [
+        "Arab",
+        "Middle Eastern"
+    ],
+    "Indian": [
+        "Indian",
+        "South Asian"
+    ],
+    "East Asian": [
+        "East Asian"
+    ],
+    "Southeast Asian": [
+        "Southeast Asian"
+    ],
+    "Central Asian": [
+        "Central Asian"
+    ],
+    "Caribbean": [
+        "Caribbean"
+    ],
+    "Mediterranean": [
+        "Mediterranean"
+    ],
+    "Jewish": [
+        "Jewish"
+    ],
+    "Mixed": [
+        "Mixed"
+    ],
+    "Aboriginal": [
+        "Aboriginal"
+    ],
+    "Maori": [
+        "Maori"
+    ],
+    "Polynesian": [
+        "Polynesian"
+    ],
+    "Indigenous Australian": [
+        "Indigenous Australian"
+    ],
+    "Inuit": [
+        "Inuit"
+    ],
+    "Alaska Native": [
+        "Alaska Native"
+    ],
+    "Hawaiian": [
+        "Hawaiian"
+    ],
+    "Samoan": [
+        "Samoan"
+    ],
+    "Filipino": [
+        "Filipino"
+    ],
+    "Vietnamese": [
+        "Vietnamese"
+    ],
+    "Japanese": [
+        "Japanese"
+    ],
+    "Korean": [
+        "Korean"
+    ],
+    "Chinese": [
+        "Chinese"
+    ],
+    "Thai": [
+        "Thai"
+    ],
+    "Indonesian": [
+        "Indonesian"
+    ],
+    "Bangladeshi": [
+        "Bangladeshi"
+    ],
+    "Pakistani": [
+        "Pakistani"
+    ],
+    "Afghan": [
+        "Afghan"
+    ],
+    "Iranian": [
+        "Iranian"
+    ],
+    "Turkish": [
+        "Turkish"
+    ],
+    "Greek": [
+        "Greek"
+    ],
+    "Italian": [
+        "Italian"
+    ],
+    "German": [
+        "German"
+    ],
+    "French": [
+        "French"
+    ],
+    "Spanish": [
+        "Spanish"
+    ],
+    "Portuguese": [
+        "Portuguese"
+    ],
+    "Russian": [
+        "Russian"
+    ],
+    "Swedish": [
+        "Swedish"
+    ],
+    "Norwegian": [
+        "Norwegian"
+    ],
+    "Danish": [
+        "Danish"
+    ],
+    "Finnish": [
+        "Finnish"
+    ],
+    "Icelandic": [
+        "Icelandic"
+    ],
+    "Scottish": [
+        "Scottish"
+    ],
+    "Irish": [
+        "Irish"
+    ],
+    "English": [
+        "English"
+    ],
+    "Welsh": [
+        "Welsh"
+    ],
+    "Dutch": [
+        "Dutch"
+    ],
+    "Belgian": [
+        "Belgian"
+    ],
+    "Swiss": [
+        "Swiss"
+    ],
+    "Austrian": [
+        "Austrian"
+    ],
+    "Polish": [
+        "Polish"
+    ],
+    "Hungarian": [
+        "Hungarian"
+    ],
+    "Romanian": [
+        "Romanian"
+    ],
+    "Bulgarian": [
+        "Bulgarian"
+    ],
+    "Czech": [
+        "Czech"
+    ],
+    "Slovak": [
+        "Slovak"
+    ],
+    "Ukrainian": [
+        "Ukrainian"
+    ],
+    "Israeli": [
+        "Israeli"
+    ],
+    "Egyptian": [
+        "Egyptian"
+    ],
+    "Moroccan": [
+        "Moroccan"
+    ],
+    "Nigerian": [
+        "Nigerian"
+    ],
+    "Ghanaian": [
+        "Ghanaian"
+    ],
+    "Ethiopian": [
+        "Ethiopian"
+    ],
+    "Kenyan": [
+        "Kenyan"
+    ],
+    "South African": [
+        "South African"
+    ],
+    "Mexican": [
+        "Mexican"
+    ],
+    "Brazilian": [
+        "Brazilian"
+    ],
+    "Argentine": [
+        "Argentine"
+    ],
+    "Peruvian": [
+        "Peruvian"
+    ],
+    "Colombian": [
+        "Colombian"
+    ],
+    "Venezuelan": [
+        "Venezuelan"
+    ],
+    "Chilean": [
+        "Chilean"
+    ],
+    "Ecuadorian": [
+        "Ecuadorian"
+    ],
+    "Bolivian": [
+        "Bolivian"
+    ],
+    "Uruguayan": [
+        "Uruguayan"
+    ],
+    "Paraguayan": [
+        "Paraguayan"
+    ],
+    "Costa Rican": [
+        "Costa Rican"
+    ],
+    "Puerto Rican": [
+        "Puerto Rican"
+    ],
+    "Cuban": [
+        "Cuban"
+    ],
+    "Dominican": [
+        "Dominican"
+    ],
+    "Jamaican": [
+        "Jamaican"
+    ],
+    "Trinidadian": [
+        "Trinidadian"
+    ],
+    "Haitian": [
+        "Haitian"
+    ],
+    "Salvadoran": [
+        "Salvadoran"
+    ],
+    "Guatemalan": [
+        "Guatemalan"
+    ],
+    "Honduran": [
+        "Honduran"
+    ],
+    "Nicaraguan": [
+        "Nicaraguan"
+    ],
+    "Panamanian": [
+        "Panamanian"
+    ],
+    "Belizean": [
+        "Belizean"
+    ],
+    "Australian": [
+        "Australian"
+    ],
+    "New Zealander": [
+        "New Zealander"
+    ],
+    "British": [
+        "British"
+    ],
+    "Canadian": [
+        "Canadian"
+    ],
+    "American": [
+        "American"
+    ],
+    "Native Hawaiian": [
+        "Native Hawaiian"
+    ],
+    "Tahitian": [
+        "Tahitian"
+    ],
+    "Fijian": [
+        "Fijian"
+    ],
+    "Tongan": [
+        "Tongan"
+    ],
+    "Sikh": [
+        "Sikh"
+    ],
+    "Bengali": [
+        "Bengali"
+    ],
+    "Gujarati": [
+        "Gujarati"
+    ],
+    "Tamil": [
+        "Tamil"
+    ],
+    "Punjabi": [
+        "Punjabi"
+    ],
+    "Kashmiri": [
+        "Kashmiri"
+    ],
+    "Malay": [
+        "Malay"
+    ],
+    "Singaporean": [
+        "Singaporean"
+    ],
+    "Cambodian": [
+        "Cambodian"
+    ],
+    "Laotian": [
+        "Laotian"
+    ],
+    "Burmese": [
+        "Burmese"
+    ],
+    "Mongolian": [
+        "Mongolian"
+    ],
+    "Nepali": [
+        "Nepali"
+    ],
+    "Tibetan": [
+        "Tibetan"
+    ],
+    "Georgian": [
+        "Georgian"
+    ],
+    "Armenian": [
+        "Armenian"
+    ],
+    "Kazakh": [
+        "Kazakh"
+    ],
+    "Uzbek": [
+        "Uzbek"
+    ],
+    "Tajik": [
+        "Tajik"
+    ],
+    "Turkmen": [
+        "Turkmen"
+    ],
+    "Kyrgyz": [
+        "Kyrgyz"
+    ],
+    "Mauritian": [
+        "Mauritian"
+    ],
+    "Seychellois": [
+        "Seychellois"
+    ],
+    "Maldivian": [
+        "Maldivian"
+    ],
+    "Sri Lankan": [
+        "Sri Lankan"
+    ],
+    "Papua New Guinean": [
+        "Papua New Guinean"
+    ],
+    "Solomon Islander": [
+        "Solomon Islander"
+    ],
+    "Vanuatuan": [
+        "Vanuatuan"
+    ],
+    "Tuvaluan": [
+        "Tuvaluan"
+    ],
+    "Kiribati": [
+        "Kiribati"
+    ],
+    "Cook Islander": [
+        "Cook Islander"
+    ],
+    "Niuean": [
+        "Niuean"
+    ],
+    "Tokelauan": [
+        "Tokelauan"
+    ],
+    "Marshallese": [
+        "Marshallese"
+    ],
+    "Palauan": [
+        "Palauan"
+    ],
+    "Micronesian": [
+        "Micronesian"
+    ],
+    "Chamorro": [
+        "Chamorro"
+    ],
+    "Yapese": [
+        "Yapese"
+    ],
+    "Kosraean": [
+        "Kosraean"
+    ],
+    "Belauan": [
+        "Belauan"
+    ],
+    "Saami": [
+        "Saami"
+    ],
+    "Inari Sami": [
+        "Inari Sami"
+    ],
+    "Skolt Sami": [
+        "Skolt Sami"
+    ],
+    "Akkala Sami": [
+        "Akkala Sami"
+    ],
+    "Forest Sami": [
+        "Forest Sami"
+    ],
+    "Kildin Sami": [
+        "Kildin Sami"
+    ],
+    "Kemi Sami": [
+        "Kemi Sami"
+    ],
+    "North Sami": [
+        "North Sami"
+    ],
+    "Lule Sami": [
+        "Lule Sami"
+    ],
+    "South Sami": [
+        "South Sami"
+    ],
+    "Ume Sami": [
+        "Ume Sami"
+    ],
+    "Ethnic Russian": [
+        "Ethnic Russian"
+    ],
+    "Tatar": [
+        "Tatar"
+    ],
+    "Bashkir": [
+        "Bashkir"
+    ],
+    "Chechen": [
+        "Chechen"
+    ],
+    "Yakut": [
+        "Yakut"
+    ],
+    "Chuvash": [
+        "Chuvash"
+    ],
+    "Mari": [
+        "Mari"
+    ],
+    "Mordvin": [
+        "Mordvin"
+    ],
+    "Udmurt": [
+        "Udmurt"
+    ],
+    "Komi": [
+        "Komi"
+    ],
+    "Karelian": [
+        "Karelian"
+    ],
+    "Ojibwe": [
+        "Ojibwe"
+    ],
+    "Navajo": [
+        "Navajo"
+    ],
+    "Cherokee": [
+        "Cherokee"
+    ],
+    "Cree": [
+        "Cree"
+    ],
+    "Choctaw": [
+        "Choctaw"
+    ],
+    "Hopi": [
+        "Hopi"
+    ],
+    "Mohawk": [
+        "Mohawk"
+    ],
+    "Apache": [
+        "Apache"
+    ],
+    "Blackfoot": [
+        "Blackfoot"
+    ],
+    "Innu": [
+        "Innu"
+    ],
+    "Iroquois": [
+        "Iroquois"
+    ],
+    "Lakota": [
+        "Lakota"
+    ],
+    "Inupiaq": [
+        "Inupiaq"
+    ],
+    "Ojibwa": [
+        "Ojibwa"
+    ],
+    "Cayuga": [
+        "Cayuga"
+    ],
+    "Seneca": [
+        "Seneca"
+    ],
+    "Oneida": [
+        "Oneida"
+    ],
+    "Tuscarora": [
+        "Tuscarora"
+    ],
+    "Onondaga": [
+        "Onondaga"
+    ],
+    "Mi'kmaq": [
+        "Mi'kmaq"
+    ],
+    "Penobscot": [
+        "Penobscot"
+    ],
+    "Abenaki": [
+        "Abenaki"
+    ],
+    "Arawak": [
+        "Arawak"
+    ],
+    "Carib": [
+        "Carib"
+    ],
+    "Yanomami": [
+        "Yanomami"
+    ],
+    "Guajiro": [
+        "Guajiro"
+    ],
+    "Quechua": [
+        "Quechua"
+    ],
+    "Mapuche": [
+        "Mapuche"
+    ],
+    "Huli": [
+        "Huli"
+    ],
+    "Paiwan": [
+        "Paiwan"
+    ],
+    "Atayal": [
+        "Atayal"
+    ],
+    "Karen": [
+        "Karen"
+    ],
+    "Batak": [
+        "Batak"
+    ],
+    "Bugis": [
+        "Bugis"
+    ],
+    "Iban": [
+        "Iban"
+    ],
+    "Dayak": [
+        "Dayak"
+    ],
+    "Torajan": [
+        "Torajan"
+    ],
+    "Timorese": [
+        "Timorese"
+    ],
+    "Manggarai": [
+        "Manggarai"
+    ],
+    "Bajo": [
+        "Bajo"
+    ],
+    "Makassarese": [
+        "Makassarese"
+    ],
+    "Sundanese": [
+        "Sundanese"
+    ],
+    "Javanese": [
+        "Javanese"
+    ],
+    "Balinese": [
+        "Balinese"
+    ],
+    "Sumbanese": [
+        "Sumbanese"
+    ],
+    "Karo": [
+        "Karo"
+    ],
+    "Minangkabau": [
+        "Minangkabau"
+    ],
+    "Ossetian": [
+        "Ossetian"
+    ],
+    "Uighur": [
+        "Uighur"
+    ],
+    "Nepalese": [
+        "Nepalese"
+    ],
+    "Assamese": [
+        "Assamese"
+    ],
+    "Ladakhi": [
+        "Ladakhi"
+    ],
+    "Bhutanese": [
+        "Bhutanese"
+    ],
+    "Papuan": [
+        "Papuan"
+    ],
+    "Siberian": [
+        "Siberian"
+    ],
+    "Kalmyk": [
+        "Kalmyk"
+    ],
+    "Yucatec Maya": [
+        "Yucatec Maya"
+    ],
+    "Zapotec": [
+        "Zapotec"
+    ],
+    "Mixtec": [
+        "Mixtec"
+    ],
+    "Totonac": [
+        "Totonac"
+    ],
+    "Otomi": [
+        "Otomi"
+    ],
+    "Mazatec": [
+        "Mazatec"
+    ],
+    "Pur\u00e9pecha": [
+        "Pur\u00e9pecha"
+    ],
+    "Tarascans": [
+        "Tarascans"
+    ],
+    "Chontal": [
+        "Chontal"
+    ],
+    "Huastec": [
+        "Huastec"
+    ],
+    "Maya": [
+        "Maya"
+    ],
+    "Zoque": [
+        "Zoque"
+    ],
+    "Tarahumara": [
+        "Tarahumara"
+    ],
+    "Serbian": [
+        "Serbian"
+    ],
+    "Bosniak": [
+        "Bosniak"
+    ],
+    "Croatian": [
+        "Croatian"
+    ],
+    "Slovene": [
+        "Slovene"
+    ],
+    "Montenegrin": [
+        "Montenegrin"
+    ],
+    "Albanian": [
+        "Albanian"
+    ],
+    "Macedonian": [
+        "Macedonian"
+    ],
+    "Kosovar": [
+        "Kosovar"
+    ],
+    "Bosnian": [
+        "Bosnian"
+    ],
+    "Herzegovinian": [
+        "Herzegovinian"
+    ],
+    "Turkish Cypriot": [
+        "Turkish Cypriot"
+    ],
+    "Azeri": [
+        "Azeri"
+    ],
+    "Karakalpak": [
+        "Karakalpak"
+    ],
+    "Nogai": [
+        "Nogai"
+    ],
+    "Greek Cypriot": [
+        "Greek Cypriot"
+    ],
+    "Lebanese": [
+        "Lebanese"
+    ],
+    "Jordanian": [
+        "Jordanian"
+    ],
+    "Palestinian": [
+        "Palestinian"
+    ],
+    "Kuwaiti": [
+        "Kuwaiti"
+    ],
+    "Omani": [
+        "Omani"
+    ],
+    "Qatari": [
+        "Qatari"
+    ],
+    "Bahraini": [
+        "Bahraini"
+    ],
+    "Emirati": [
+        "Emirati"
+    ],
+    "Saudi Arabian": [
+        "Saudi Arabian"
+    ],
+    "Yemeni": [
+        "Yemeni"
+    ],
+    "Syrian": [
+        "Syrian"
+    ],
+    "Iraqi": [
+        "Iraqi"
+    ],
+    "Sudanese": [
+        "Sudanese"
+    ],
+    "Libyan": [
+        "Libyan"
+    ],
+    "Tunisian": [
+        "Tunisian"
+    ],
+    "Algerian": [
+        "Algerian"
+    ],
+    "Mauritanian": [
+        "Mauritanian"
+    ],
+    "Chadian": [
+        "Chadian"
+    ],
+    "Nigerien": [
+        "Nigerien"
+    ],
+    "Senegalese": [
+        "Senegalese"
+    ],
+    "Malian": [
+        "Malian"
+    ],
+    "Burkinabe": [
+        "Burkinabe"
+    ],
+    "Guinean": [
+        "Guinean"
+    ],
+    "Sierra Leonean": [
+        "Sierra Leonean"
+    ],
+    "Liberian": [
+        "Liberian"
+    ],
+    "Ivorian": [
+        "Ivorian"
+    ],
+    "Togolese": [
+        "Togolese"
+    ],
+    "Beninese": [
+        "Beninese"
+    ],
+    "Cameroonian": [
+        "Cameroonian"
+    ],
+    "Central African": [
+        "Central African"
+    ],
+    "Equatorial Guinean": [
+        "Equatorial Guinean"
+    ],
+    "Gabonese": [
+        "Gabonese"
+    ],
+    "Congolese": [
+        "Congolese"
+    ],
+    "Angolan": [
+        "Angolan"
+    ],
+    "Namibian": [
+        "Namibian"
+    ],
+    "Madagascan": [
+        "Madagascan"
+    ],
+    "Comorian": [
+        "Comorian"
+    ],
+    "Malagasy": [
+        "Malagasy"
+    ],
+    "Greenlandic": [
+        "Greenlandic"
+    ],
+    "Argentinian": [
+        "Argentinian"
+    ],
+    "Bahamian": [
+        "Bahamian"
+    ],
+    "Barbadian": [
+        "Barbadian"
+    ],
+    "Guyanese": [
+        "Guyanese"
+    ],
+    "Surinamese": [
+        "Surinamese"
+    ],
+    "Vincentian": [
+        "Vincentian"
+    ],
+    "Grenadian": [
+        "Grenadian"
+    ],
+    "Saint Lucian": [
+        "Saint Lucian"
+    ],
+    "Antiguan": [
+        "Antiguan"
+    ],
+    "Kittitian": [
+        "Kittitian"
+    ],
+    "Zulu": [
+        "Zulu"
+    ],
+    "Xhosa": [
+        "Xhosa"
+    ],
+    "Swazi": [
+        "Swazi"
+    ],
+    "Sotho": [
+        "Sotho"
+    ],
+    "Tswana": [
+        "Tswana"
+    ],
+    "Venda": [
+        "Venda"
+    ],
+    "Pedi": [
+        "Pedi"
+    ],
+    "Tsonga": [
+        "Tsonga"
+    ],
+    "Ndebele": [
+        "Ndebele"
+    ],
+    "Sesotho": [
+        "Sesotho"
+    ],
+    "Akan": [
+        "Akan"
+    ],
+    "Hausa": [
+        "Hausa"
+    ],
+    "Yoruba": [
+        "Yoruba"
+    ],
+    "Igbo": [
+        "Igbo"
+    ],
+    "Fulani": [
+        "Fulani"
+    ],
+    "Zarma": [
+        "Zarma"
+    ],
+    "Berber": [
+        "Berber"
+    ],
+    "Kikuyu": [
+        "Kikuyu"
+    ],
+    "Luo": [
+        "Luo"
+    ],
+    "Maasai": [
+        "Maasai"
+    ],
+    "Kalenjin": [
+        "Kalenjin"
+    ],
+    "Somali": [
+        "Somali"
+    ],
+    "Oromo": [
+        "Oromo"
+    ],
+    "Amhara": [
+        "Amhara"
+    ],
+    "Tigray": [
+        "Tigray"
+    ],
+    "Wolof": [
+        "Wolof"
+    ],
+    "Bambara": [
+        "Bambara"
+    ],
+    "Fula": [
+        "Fula"
+    ],
+    "Mandinka": [
+        "Mandinka"
+    ],
+    "Susu": [
+        "Susu"
+    ],
+    "Sango": [
+        "Sango"
+    ],
+    "Toucouleur": [
+        "Toucouleur"
+    ],
+    "S\u00e9noufo": [
+        "S\u00e9noufo"
+    ],
+    "Dioula": [
+        "Dioula"
+    ],
+    "Mossi": [
+        "Mossi"
+    ],
+    "Songhai": [
+        "Songhai"
+    ],
+    "Kurdish": [
+        "Kurdish"
+    ],
+    "Assyrian": [
+        "Assyrian"
+    ],
+    "Coptic": [
+        "Coptic"
+    ],
+    "Persian": [
+        "Persian"
+    ],
+    "Dari": [
+        "Dari"
+    ],
+    "Pashtun": [
+        "Pashtun"
+    ],
+    "Baloch": [
+        "Baloch"
+    ],
+    "Avar": [
+        "Avar"
+    ],
+    "Ingush": [
+        "Ingush"
+    ],
+    "Lezgin": [
+        "Lezgin"
+    ],
+    "Lak": [
+        "Lak"
+    ],
+    "Kabardian": [
+        "Kabardian"
+    ],
+    "Adyghe": [
+        "Adyghe"
+    ],
+    "Abkhaz": [
+        "Abkhaz"
+    ],
+    "Belarusian": [
+        "Belarusian"
+    ],
+    "Latvian": [
+        "Latvian"
+    ],
+    "Lithuanian": [
+        "Lithuanian"
+    ],
+    "Estonian": [
+        "Estonian"
+    ],
+    "Flemish": [
+        "Flemish"
+    ],
+    "Luxembourgish": [
+        "Luxembourgish"
+    ],
+    "Liechtensteiner": [
+        "Liechtensteiner"
+    ],
+    "Moldovan": [
+        "Moldovan"
+    ],
+    "Slovenian": [
+        "Slovenian"
+    ],
+    "Maltese": [
+        "Maltese"
+    ],
+    "Corsican": [
+        "Corsican"
+    ],
+    "Andorran": [
+        "Andorran"
+    ],
+    "Mon\u00e9gasque": [
+        "Mon\u00e9gasque"
+    ],
+    "Basque": [
+        "Basque"
+    ],
+    "Catalan": [
+        "Catalan"
+    ],
+    "Galician": [
+        "Galician"
+    ],
+    "Northern Irish": [
+        "Northern Irish"
+    ],
+    "Bissau-Guinean": [
+        "Bissau-Guinean"
+    ],
+    "Burundian": [
+        "Burundian"
+    ],
+    "Cape Verdean": [
+        "Cape Verdean"
+    ],
+    "Djiboutian": [
+        "Djiboutian"
+    ],
+    "Eritrean": [
+        "Eritrean"
+    ],
+    "Gambian": [
+        "Gambian"
+    ],
+    "Lesotho": [
+        "Lesotho"
+    ],
+    "Malawian": [
+        "Malawian"
+    ],
+    "Mozambican": [
+        "Mozambican"
+    ],
+    "Rwandan": [
+        "Rwandan"
+    ],
+    "S\u00e3o Tom\u00e9an": [
+        "S\u00e3o Tom\u00e9an"
+    ],
+    "South Sudanese": [
+        "South Sudanese"
+    ],
+    "Tanzanian": [
+        "Tanzanian"
+    ],
+    "Ugandan": [
+        "Ugandan"
+    ],
+    "Zambian": [
+        "Zambian"
+    ],
+    "Zimbabwean": [
+        "Zimbabwean"
+    ]
+}
